@@ -1,9 +1,11 @@
 # Nocturnaljason
 
-I am a DevOps engineer and I created this github account for projects in my spare time. Right now, I am busy working on projects for my job, but I am planning to start adding stuff to github soon.
+I am a DevOps Engineer. My Github account is for projects I want to work on in my spare time. 
 
-## Company Gem
+Ruby and Python tend to be the languages I write in. Feel free to use any of my projects if they help. 
 
-Plan on writting a ruby gem called company to model a company and some various aspects of it. Still in the planning phase but it will be a simple gem just meant to make it easier to model your company or a company in your ruby code.
+## Projects
 
+Plan doing a few things as of right now.  First, I will be writing a gem and an egg for an idea I had.  Second, using omnibus and some of the gitlab source for omnibus create a self-contained project to use on my Mac and on my AWS Linux instances.
 
+To be continued.....
