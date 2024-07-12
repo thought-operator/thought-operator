@@ -1,4 +1,4 @@
-[https://www.thoughtparameters.com/images/thought-operator.png]
+![Thought Operator](https://www.thoughtparameters.com/images/thought-operator.png)
 
 ## Introduction
 
