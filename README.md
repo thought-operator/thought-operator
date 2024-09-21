@@ -1,4 +1,4 @@
-![thought-operator](https://github.com/)
+![thought-operator](https://github.com/thought-operator/thought-operator/blob/7019a27d358d08ea4a04fbf70d27eaf28609e70b/thoughtoperator.png?raw=true)
 
 ## Introduction
 As a passionate DevOps engineer, I am dedicated to the art of streamlining and automating infrastructure, building scalable solutions, and writing clean, efficient code. With a deep love for problem-solving and an ever-curious mindset, I thrive on taking on complex challenges in dynamic environments. My approach centers around continuous improvement, and I'm always looking to refine processes, enhance performance, and adopt the latest technologies. Whether it's designing CI/CD pipelines or managing infrastructure-as-code, I enjoy finding ways to innovate and make systems more robust.
