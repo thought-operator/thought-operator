@@ -11,3 +11,33 @@ GitHub has become my go-to platform for sharing knowledge, collaborating on proj
 In addition to my technical expertise, I prioritize creating a well-documented, accessible codebase that can be understood and built upon by teams. Whether working with cutting-edge containerization tools like Docker and Kubernetes or diving into scripting for automation, I aim to make contributions that leave a lasting impact.
 
 I invite you to explore my repositories, offer feedback, or collaborate on exciting new projects. Together, we can push the boundaries of what's possible in the ever-evolving DevOps landscape.
+
+## Interests
+
+- **DevOps**: Streamlining and automating infrastructure, building scalable solutions, and writing clean, efficient code.
+
+- **GitHub**: Sharing knowledge, collaborating on projects, and contributing to the open-source community.
+
+- **Continuous Improvement**: Refining processes, enhancing performance, and adopting the latest technologies.
+
+- **Continuous Learning**: Embracing the journey of continuous learning and growth.
+
+- **Collaboration**: Embracing collaboration and valuing feedback.
+
+- **Documentation**: Creating well-documented, accessible codebases.
+
+- **Automation**: Leveraging scripting for automation.
+
+- **Open-Source**: Contributing to the open-source community.
+
+- **Innovation**: Finding ways to innovate and make systems more robust.
+
+- **Impact**: Leaving a lasting impact through contributions.
+
+## Contact
+
+- **Email**: [thoughtoperator@thoughtparameters.com](mailto:thoughtoperator@thoughtparameters.com)
+
+- **Discord**: [Jason M.](https://discord.gg/PjErXeHs)
+
+- **LinkedIn**: [Jason M.](https://www.linkedin.com/in/thought-operator/)
