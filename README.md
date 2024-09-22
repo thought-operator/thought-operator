@@ -38,7 +38,7 @@ I invite you to explore my repositories, offer feedback, or collaborate on excit
 
 ![jason-ad](https://github.com/thought-operator/thought-operator/blob/14f617e3441353c732962ea27cc69c6360b3de01/jason-ad.png)
 
-## Contact
+## Contact Me
 
 - **Email**: [thoughtoperator@thoughtparameters.com](mailto:thoughtoperator@thoughtparameters.com)
 
