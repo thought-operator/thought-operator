@@ -34,6 +34,10 @@ I invite you to explore my repositories, offer feedback, or collaborate on excit
 
 - **Impact**: Leaving a lasting impact through contributions.
 
+## My Picture
+
+![jason-ad](https://github.com/thought-operator/thought-operator/blob/14f617e3441353c732962ea27cc69c6360b3de01/jason-ad.png)
+
 ## Contact
 
 - **Email**: [thoughtoperator@thoughtparameters.com](mailto:thoughtoperator@thoughtparameters.com)
